@@ -1,0 +1,11 @@
+{
+  "name": "aoc-2022",
+  "type": "module",
+  "scripts": {
+    "start": "./answer.sh"
+  },
+  "devDependencies": {
+    "callsites": "^4.0.0",
+    "ts-node": "^10.9.1"
+  }
+}
